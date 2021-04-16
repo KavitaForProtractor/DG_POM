@@ -1,0 +1,23 @@
+{
+
+    "chromeWebSecurity": false,
+    "baseUrl": "https://sso.evidonstage.com/",
+    "pageLoadTimeout":120000,
+
+
+    "reporter":".node_modules/mochawesome/src/mochawesome.js",
+    "reporterOptions":{
+        "reportDir":".cypress\reports",
+        "reportFilename":"testresults",
+        "overwrite":false,
+        "html":true,
+        "json":true,
+        "charts":true
+
+
+
+
+    }
+
+
+}
