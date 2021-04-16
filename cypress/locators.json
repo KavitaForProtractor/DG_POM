@@ -1,0 +1,10 @@
+{ 
+    
+        "homepage" :   {
+
+            "UserTxt" : "#EmailAddress",
+            "PswdText" : "#Password",
+            "signinBtn" : "#SignIn"
+        }
+
+}
