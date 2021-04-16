@@ -2,7 +2,7 @@
     
         "homepage" :   {
 
-            "UserTxt" : "#EmailAddress",
+            "UserTxt" : "#EmailAddresss",
             "PswdText" : "#Password",
             "signinBtn" : "#SignIn"
         }
